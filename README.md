@@ -8,5 +8,5 @@ Exemplo:
 - Thread 3 → `101 a 150`
 
 ## 🖥️ Exemplo de uso
-Entrada: `5 a 150`  
-Saída: lista de todos os primos entre `5 e 150`.
+- Entrada: `5 a 150`
+- Saída: lista de todos os primos entre `5 e 150`.
